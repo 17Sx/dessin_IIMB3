@@ -1,3 +1,6 @@
+//Noa Obringer
+//IIM B3
+
 // Récupération du canvas et de son contexte 2D
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
